@@ -1,0 +1,60 @@
+<table class="email-wrapper" style="width: 100%; margin: 0; padding: 0; background-color: #6f42c1;" width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center">
+<table class="email-content" style="width: 100%; margin: 0; padding: 0;" width="100%" cellpadding="0" cellspacing="0"><!-- Header with Logo -->
+<tbody>
+<tr>
+<td class="email-masthead" style="padding: 25px 0; text-align: center;"><a style="font-size: 16px; font-weight: bold; color: #ffffff; text-decoration: none;" href="https://thrnaffpanel.thrnaffcdn.com"> <img style="max-width: 200px;" src="https://thrnaffpanel.thrnaffcdn.com/templates/default/images/sitelogo.png" alt="NeatAffiliates Logo" border="0"> </a></td>
+</tr>
+<!-- Email Body -->
+<tr>
+<td class="email-body" style="width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #ffffff;" width="100%">
+<table class="email-body_inner" style="width: 570px; margin: 0 auto; padding: 0;" align="center" width="570" cellpadding="0" cellspacing="0"><!-- Main Content -->
+<tbody>
+<tr>
+<td class="content-cell" style="padding: 35px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #333333;">
+<h1 style="font-size: 24px; color: #6f42c1; text-align: center;">Welcome to NeatAffiliates!</h1>
+<p style="font-size: 16px;">Hello %col:username%%,</p>
+<p style="font-size: 16px;">Thank you for registering for our <a style="color: #6f42c1; text-decoration: underline;" href="https://thrnaffpanel.thrnaffcdn.com">affiliate program</a>. We're excited to have you on board.</p>
+<p style="font-size: 16px;">Your affiliate username is <strong>%col:username%%</strong>.</p>
+<p style="font-size: 16px;">You can log in to your account <a style="color: #6f42c1; text-decoration: underline;" href="https://thrnaffpanel.thrnaffcdn.com">here</a>.</p>
+<p style="font-size: 16px; margin-top: 20px;">Please verify your email address by clicking the button below:</p>
+<table class="body-action" align="center" width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center"><a style="display: inline-block; width: 200px; padding: 10px 0; color: #ffffff; background-color: #3fbd87; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;" href="https://thrnaffpanel.thrnaffcdn.com/verify.php?vUser=%col:username%%&amp;vCode=%uv:EMAIL_VALIDATION_CODE%%"> Verify Email Address </a></td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 16px; margin-top: 20px;">If you have any questions, feel free to <a style="color: #6f42c1; text-decoration: underline;" href="https://www.neataffiliates.com/contact/">contact us</a>.</p>
+<br>
+<p style="font-size: 16px;">Best regards,</p>
+<p style="color: #6f42c1; font-weight: bold;">The NeatAffiliates Team</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Footer -->
+<tr>
+<td>
+<table class="email-footer" style="width: 570px; margin: 0 auto; padding: 0; background-color: #6f42c1;" width="570" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="content-cell" style="padding: 35px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align: center; color: #ffffff;">
+<p style="font-size: 12px; margin: 0;">If you no longer wish to receive these emails, you may <a style="color: #ffffff; text-decoration: underline;" href="https://thrnaffpanel.thrnaffcdn.com/email-unsubscribe.php">unsubscribe</a> here.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

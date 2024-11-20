@@ -1,0 +1,64 @@
+<table class="email-wrapper" style="width: 100%; margin: 0; padding: 0; background-color: #f2f4f6;" width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center">
+<table class="email-content" style="width: 100%; margin: 0; padding: 0;" width="100%" cellpadding="0" cellspacing="0"><!-- Logo -->
+<tbody>
+<tr>
+<td class="email-masthead" style="padding: 25px 0; text-align: center;"><a style="font-size: 16px; font-weight: bold; color: #bbbfc3; text-decoration: none; text-shadow: 0 1px 0 white;" href="https://thrnaffpanel.thrnaffcdn.com"> <img src="https://thrnaffpanel.thrnaffcdn.com/templates/default/images/sitelogo.png" border="0"> </a></td>
+</tr>
+<!-- Email Body -->
+<tr>
+<td class="email-body" style="width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #fff;" width="100%">
+<table class="email-body_inner" style="width: 570px; margin: 0 auto; padding: 0;" align="center" width="570" cellpadding="0" cellspacing="0"><!-- Body content -->
+<tbody>
+<tr>
+<td class="content-cell" style="padding: 35px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<p>Affiliate payment details changed.</p>
+<p>This is a short notice to inform you that the following affiliate has updated their payment details..<br><br></p>
+<table cellpadding="0" cellspacing="0" width="100%" align="center">
+<tbody>
+<tr>
+<td>
+<div><strong>Username: </strong>%col:username%%</div>
+</td>
+</tr>
+<tr>
+<td>
+<div><strong>Changes: </strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>%col:html_payment_changes%%</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Best Regards</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="email-footer" style="width: 570px; margin: 0 auto; padding: 0;" width="570" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="content-cell" style="padding: 35px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<p class="sub " style="color: #aeaeae; font-size: 12px;">&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
